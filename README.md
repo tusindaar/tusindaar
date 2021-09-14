@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning SAP Commerce 
 - 💬 Ask me about SAP Marketing Cloud, SAP Commerce and Ecommerce
 
-# # # # Lets connect at: 
+#### Lets connect at: 
