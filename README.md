@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/marcokjeldsen" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franck dirat" height="30" width="40" style="max-width: 100%;"></a>
 
 ### My latest posts
-Starting to code
 [I Thoght I Knew It All](https://medium.com/@mk_78155/i-thought-i-knew-it-all-f60d059554bb)
 
 ### Languages and tools
