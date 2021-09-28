@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Ecommerce projects and [Foodini](https://github.com/Franck11111/Foodini)
 - 🌱 I’m currently learning SAP Commerce, SAP Marketing Cloud and Spartacus
-- 💬 Ask me about SAP Marketing Cloud, SAP Commerce and Ecommerce
+- 💬 Ask me about SAP Marketing Cloud, C4C, SAP Commerce and Ecommerce
 
 ### My latest posts
 [I Thoght I Knew It All](https://medium.com/@mk_78155/i-thought-i-knew-it-all-f60d059554bb)
