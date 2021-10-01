@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Marco K.
+### Hi there 👋 I'm Marco
 
 - 🔭 I’m currently working on Ecommerce projects and [Foodini](https://github.com/Franck11111/Foodini)
 - 🌱 I’m currently learning SAP Commerce, SAP Marketing Cloud and Spartacus Angular 
